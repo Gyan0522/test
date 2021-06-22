@@ -1,0 +1,814 @@
+{
+  "issues": [
+    {
+      "issue": "OEL001 Create an Aha epic in bigblue.aha.io at the beginning of your planning using the Cloud Onboarding tags.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL002 Request and receive approval for Naming by Intellectual Property Legal and Division Namer",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL004 Schedule Playback meeting to cover Concept Car, and all Lifecycle changes. You must remediate feedback when indicated. Concept Car playback content includes business case, market opportunity,client experience, personas, differentiators, GTM (Go To Market), Pricing.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL012 Work with your Sales Enablement (SE) Lead to receive approval of GTM materials.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL005 Establish pricing \u0026 choose pre-approved metrics for consumption billing. Prepare cost information in preparation of Special bid reviews, if required.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL006 Create miniSD using the Gaia CLM SD Authoring process/tool and receive Legal approval.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL007 Review existing ERO/ECCN for PayGo part setup. Complete Certificate of Originality (COO) \n\n**ERO/ECCN DOES NOT APPLY TO SOFTWARE OR SAAS SW PRODUCTS. THIS ONLY APPLIES TO MANAGED SERVICES ONBOARDING TO CLOUD PLATFORM.**",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL008 Work with your Brand New Product Manager (BNPM) to complete part coding spreadsheet to create Parts and PIDS. Copy Brand Pricer in email with spreadsheet. If parts are configuration based (Rollup) you will need a Tax Review.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BSS001 Register the CRN in RMC",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC001 Identify Service Security Focal",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001 Identify Architecture Technical Focal for your Service",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.1 Service must be designed as a Cloud Native Service according to the principles in the Cloud Native Architecture Standards",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.2 Service availability requirements.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.3 Define a Cloud Resource Name (CRN) for the service, service instances, resources.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.4 Service must integrate with Identity and Access Management (IAM)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.8 Obtain subdomain names based upon approved CRN service-name",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001b.2 Service must be designed for high availability at regional level",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.1p Service must be designed to run on and leverage IBM Kubernetes Platforms",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC031 Identify Compliance Focal",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX001 Identify focal points for both UI development and design (including name and email address), and register for weekly interlock meetings. _[Applies to: All UIs]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX002 Hold preliminary consultation for user experience and determine what kind of UI and API will be provided by your service (if any). _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX003 If it is determined you would like your service to provide a plugin for a custom world experience in the console, get approval from the Console OM (see requirement focal) to be added to the console's global navigation menu. _[Applies to: Custom World Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX004 Use the Catalog Listing tab in the RMC to enter your offering metadata, and submit for approval.  _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX005 Populate the Global Catalog with UI metadata needed by your service. _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX006 As you start development, use the `cloud-ui-starter` which provides a sample app conforming to console best practices including: Carbon v9, React, authentication, use of common header, static resource caching, etc. _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX007 Make arrangements to be built and deployed as part of the Console DevOps Pipeline. _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX008  Provide the GitHub repo for your UI code and defects. _[Applies to: Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX009 Provide desired proxy path name that will route requests to your UI. _[Applies to: Plugins, except for Custom Service Details]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX010 For plugins deployed outside of the console's pipeline, provide _globally load balanced_ host names to be used in the proxy configurations in all console deployments to ensure high availability. _[Applies to: Plugins Outside of Pipeline Except Custom Service Details]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BCDR001 Identify a Business Continuity and Disaster Recovery (BC/DR) focal for the service.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS001 Register Service Name segment of CRN in RMC (Resource Management Console)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS015 Onboard to Change Management in ServiceNow compliant with IBM Change Management Policy",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC007 Complete and update Blueline Assessment",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC010 Onboard service with Shared Operational Services (SOS)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC012 Onboard service with the Security Operations Center (SOC)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BSS002 Create a Service Broker.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS002 Request access to ServiceNow and Complete ServiceNow Enrollment",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC014 Onboard to Product Security Incident Response Team (PSIRT)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BSS003 Complete approval of plans form in RMC",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BSS004 Onboard a new resource for metering and billing",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BSS005 Add Billing Parts to IMS",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC016.3 Remediate the vulnerability issues identified by Nessus and Vulnerability Advisor (VA).  VA is used by IBM Cloud Kubernetes Services (IKS) to scan vulnerabilities on container images",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC023 Conduct penetration testing/red team exercises throughout the development lifecycle and duration of a service's lifespan.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001b.7 Monitoring of the resources and dependencies of the service - health checks - must be in place",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS003 Enable Provisioning Monitoring",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS004 Enable Consumption Monitoring",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS014 Request Access and On-board to PagerDuty",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS005 Complete TIP Integration",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS006 Complete TOC Onboarding",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS007 ACS Support On-boarding",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC027 Complete Cloud Security Review",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC040 Deploy Auditree compliance checking and reporting tool",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC041 Meet Access Management controls for compliance and certification.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC042 Customer data and PII is encrypted in transit.  Services must inventory their encryption points, modules and algorithms.  Services must encrypt all customer data in transit.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC030 Meet Core Cloud Controls for compliance and certification",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001b.8 Complete capacity planning for Service",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001b.9 Service must automate the deployment of new instances or updates to existing instances of the service",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC033 Ensure that your DPA Exhibit has been generated and your service description references the Data Processing Agreement (DPA) Exhibit (Data Sheet)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001ga.5 Evidence that scale-up procedures were tested and failure simulation tests were run before launching GA",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001ga.7 GA Service must have zero dependencies on Beta or Alpha/Experimental services (for third-party services, must have 24x7 support)",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001oc.1 An IBM Cloud service must audit and capture all user actions and relevant security events according to the IBM Cloud Audit standards",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001oc.3 Service must integrate with the IBM Log Analysis with LogDNA service for both internal and external logs",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001oc.4 Service must integrate with the SysDig service to make metrics available externally related to the status and performance of the Service that is required by customers",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001oc.5 Service must integrate with IBM Cloud Platform Services for the lifecycle of Customer Data.  This includes the Reclamation Controller and support for BYOK and KYOK.  Services must document their treatment of customer data within the IBM Cloud Documentation and in accordance with our Cloud Services Agreement.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH002 Verify that in the service offering, architecture and processes are included or used only services provided by a 3rd party company or IBM corporate organization different from IBM Public Cloud that are on the One-Cloud approved list of External Services. Moreover, that the approved External Services are used according to the documented usage policies and restrictions, if any.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH003 All the service components related to the data, control, management planes must be hosted on VPC Gen2 infrastructure services with no dependencies on Classic infrastructure services.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH004 Service teams build Container Images FROM UBI Images or Scratch AND/OR document exceptions.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH005 A Service MUST declare its supported deployment models and document (in public documentation) Data Isolation Models.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH008 Services must use databases provided by IBM as managed services in IBM Cloud Catalog. The choice must be limited to the database offerings that meet the requirement of [ARCH013 - Verify that all dependencies meet security, compliance and architecture requirements](https://test.cloud.ibm.com/docs/service-framework?topic=service-framework-architecture-arch-#arch013-verify-that-all-dependecies-meet-security-compliance-and-architecture-requrements-).",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH011 All services going to be One Cloud and FS-Cloud, FedRamp compliant have to adhere to the CI/CD reference architecture",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH013 Services must verify that all the services and components they depend on meet the security, compliance and architecture requirements that enable to meet their target compliance and Service Framework badging programs.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC032 Obtain Privacy Shield certification",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BCDR004 Ensure documentation of Shut down (Close Down) and Start Up Procedures.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BCDR006 Evidence that point in time data backups (which cannot be affected by a simultaneous/mirrored production data delete) and restore procedures were documented/tested before GA launch. All the required documentation and tests reports should be collected, approved and ready for auditing.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "BCDR008 Design and implementation of Service architecture and processes to support the Business Continuity and Disaster Recovery plan. Evidence that Business Continuity and Disaster Recovery  plans were documented, approved and tested before GA launch. All of the documentation required by the BC/DR plans and tests reports should be collected, approved and ready for auditing.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OSS011 Validate that CRN registration is consistent across all tools",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX011 Ensure plugins follow design guidelines and validate with design review. _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX012 Ensure your UI is written using the latest version of Cloud PAL (and Carbon). _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX013 Leverage reusable console-provided React patterns/components not in Cloud PAL (where applicable). _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX014 Pull in the Common Header across the top of your pages, and leverage the Common Left Hand Nav to implement navigation. _[Applies to: UI Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX015 Follow technical and design guidelines for custom dashboard widgets (if your service warrants one). _[Applies to: Custom Dashboard Widgets]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX016 Ensure offerings that provide custom create pages are integrated into the Cost Estimator. _[Applies to: Custom Catalog Create Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX017 Provide a Data Layer Adapter in order to be displayed in the main Resource List (does not apply to most services). _[Applies to: Services Needing Data Layer Integration]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX018 Ensure your plugin follows best practices for serving static and dynamic resources. _[Applies to: Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX019 If your service requires custom cookies, get approval and ensure your plugin follows best practices for creating cookies on the cloud.ibm.com domain. _[Applies to: UI Plugins w/ Custom Cookies]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX020 Test and monitor your plugin and ensure alerts are in place when problems are found at runtime. _[Applies to: Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX021 Ensure performance and reliability goals/guidelines are met. _[Applies to: Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX022 Ensure your UI follows best practices for authentication as well as UI-specific security guidelines (such as taking steps to prevent XSS attacks). _[Applies to: Plugins]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX023 Make UI and documentation accessible according to requirements defined by the IBM Accessibility Checklist. _[Applies to: All UI's]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX024 Translation and multicultural support for UI, Catalog, CLI and Documentation in Brazilian Portuguese, French, German, Italian, Japanese, Korean, Spanish, Simplified Chinese, Traditional Chinese (exception: Italian, Simplified and Traditional Chinese not required for Docs). [Applies to: All]",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX025 Create service documentation (offering docs including getting started tutorial, FAQs, troubleshooting, etc.). _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX026 Enable analytics for your service/plugin and ensure all relevant guidelines are followed (including GDPR, EU-supported, data privacy, etc.). _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX028 All services must provide a command line interface (CLI), which must be designed and implemented according to CLI guidelines.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX029 Publish service external APIs to the external IBM Cloud API Docs following API standards. _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX031 Document the responsibilities of the customer when using the service **if** detail is required in addition to the core platform documentation that is generic for all services types: see Shared responsibilities for IBM Cloud offerings. _[Applies to: All managed services]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "UX032 Design, publish, and maintain service external SDKs following SDK standards. _[Applies to: All]_",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC028 Complete GDPR compliance gap assessment within Blueline.  Complete Blueline gap remediation.  Provide current C3 Risk Assessment (RA) OR complete IBM Data Privacy Office (DPO) Risk Assessment.  All evidence is collected and approved within the Blueline evidence folder",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC029 Complete Compliance and Controls Central (C3) Privacy Information Management System (PIMS) onboarding for ISO 27001 certification",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC037 Complete Cloud Top 5 Testing",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC043 Secure non-production environments",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC044 All interactive operator actions restricted to use IBM Cloud Bastion Host solution.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC045 Ensure all workstations or other endpoint devices are properly identified and configured in Beekeeper.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC047 : Meet the IBM Cloud TLS \u0026 Certificate Requirements, use the correct type of TLS certificates from the correct CA based on your use case and track expiry using Certificate Manager.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "SEC048 :  \n\n- Services must adopt secure secret management solutions such as SOS Vault, Secrets Manager, Key Protect.  \n- Secrets and their copies must never leave the environment where they are used (production, non-production). \n- Service designs must minimize the number of component and people with access to secrets by adhering to the principle of Least Privilege.\n- Service must be able to support swift and easy rotation of secrets used, preferably in an automated manner.\n- Service must implement [Detect Secrets](https://w3.ibm.com/w3publisher/detect-secrets) on all GitHub repositories.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "ARCH001a.9 Complete Car Wash Program architecture reviews for your release",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL009 Brand Pricing Team will load Pricing Tables into WWPRT or will validate the accuracy of the Rollup part setup in RMC with metric pricing.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL011 Present Launch Readiness Review (complete, review feedback, remediate any items).",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL013 Engage with your Communications Team Approver to prepare Announcements for publication and to create Braze Notification.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "OEL014 Ensure that the 'Due on' date reflects Public Deployment date in your onboarding epic (created in OEL001).",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU001 Review whether a service being deployed in Frankfurt MZR should be part of EU Cloud and, if so, seek agreement from EU Cloud offering management.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU002 The service must comply with \u0026 be structured according to the core design of the EU Cloud Offering",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU003 The service must ensure that the credentials and access management that is in place enforces restrictions to EU client owned data",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU004 The service must ensure that they comply in full with the operational standards and practices for EU Cloud.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU005 The service must ensure that they have deployed in full the Exception Process component within the wider practices for EU Cloud.",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    },
+    {
+      "issue": "EU006 Complete all steps to reflect as 'EU Supported' in the IBM Cloud catalog",
+      "done": {
+        "comment": "",
+        "state": "open"
+      }
+    }
+  ],
+  "repositories": "LOX/PartnerCenterSellSF",
+  "aha_mapping": {
+    "name": "",
+    "reference_prefix": ""
+  }
+}
